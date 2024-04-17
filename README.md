@@ -62,7 +62,6 @@
 
 <div align="center">
     <img width=390 src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)" alt="readme stats" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 
 </div>
