@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer from Tunisia 🇹🇳</h3>
-<img align="right" alt="Coding" width="400" src=https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yessinez&label=Profile%20views&color=0e75b6&style=flat" alt="yessinez" /> </p>
 
 
@@ -35,10 +35,6 @@
 
 
 
-
-
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yessineZ.yessineZ" />
 
 
 
