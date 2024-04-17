@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yessine+Zouari!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Tunisia 🇹🇳</h3>
+<h3 align="center">A passionate software developer from Tunisia 🇹🇳 </h3>
 
 <br/>
 
@@ -36,7 +36,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,scss,javascript,react,vscode,github,git,r" />
-    <img src="https://skillicons.dev/icons?i=typescript,mongodb,c,java,,mysql,c#,.net,laravel,php" /><br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=typescript,mongodb,c,java,,mysql,laravel,php" /><br>
 </div>
 
 <br/>
