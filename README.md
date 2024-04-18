@@ -51,8 +51,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
      <img src="https://github.com/yessineZ/yessineZ/blob/output/github-contribution-grid-snake-dark.svg">
-      
-      ![snake gif](https://github.com/yessineZ/yessineZ/blob/output/github-contribution-grid-snake-dark.svg)
+ 
   
   <br/><br/><br/>
     </div>
