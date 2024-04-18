@@ -52,6 +52,7 @@
   <br>
    
   <img src="https://github.com/yessineZ/yessineZ/blob/output/github-contribution-grid-snake.svg">
+  ![snake gif](https://github.com/yessineZ/yessineZ/blob/output/github-contribution-grid-snake-dark.svg)
 
   <br/><br/><br/>
     </div>
@@ -61,7 +62,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-![snake gif](https://github.com/yessineZ/yessineZ/blob/output/github-contribution-grid-snake-dark.svg)
+
  
  
 </div>
