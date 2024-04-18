@@ -60,9 +60,9 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
+<div align=center style="max-width : "50px">
 <img src="https://github-readme-stats.vercel.app/api?username=yessineZ&show_icons=true&theme=dark">
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=oussama.mallouli&hide_progress=true">
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=yessineZ&hide_progress=true&theme=dark">
 
  
  
