@@ -11,9 +11,7 @@
 
 - 🌱 I’m currently learning **Node.js,Express.js,React.js,mongodb**
 
-- 💬 Ask me about **Node.js, React, JavaScript... or anything [here](https://github.com/yessineZ/yessineZ/issues)**
-
-- ⚡ Fun fact **I think I am funny**
+- 💬 Ask me about **Node.js, Reactjs , NextJs , ReactNative , JavaScript... or anything [here](https://github.com/yessineZ/yessineZ/issues)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
