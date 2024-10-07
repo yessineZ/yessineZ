@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/miistyeu" target="blank"><img src="https://img.shields.io/twitter/follow/miistyeu?logo=twitter&style=for-the-badge" alt="miistyeu" /></a> </p>
 
-- Web and Mobile Developer using JS frameworks
+- Web and Mobile Developer using JavaScript frameworks
 
 - 🌱 I’m currently learning Devops 
 
