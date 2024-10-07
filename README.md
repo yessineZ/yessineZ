@@ -35,13 +35,14 @@
 </div>
 
  <hr/>
- 
+ /*
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,vscode,github,git,r" /><br>
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,typescript,php,laravel,c,cs,java,mysql,postman,unity" /><br>
 </div>
+*/
 
 <br/>
 <hr/>
