@@ -8,10 +8,11 @@
 
 
 <p align="left"> <a href="https://twitter.com/miistyeu" target="blank"><img src="https://img.shields.io/twitter/follow/miistyeu?logo=twitter&style=for-the-badge" alt="miistyeu" /></a> </p>
+- Web and Mobile Developer using JS frameworks
 
-- 🌱 I’m currently learning **Node.js,Express.js,React.js,mongodb**
+- 🌱 I’m currently learning Devops 
 
-- 💬 Ask me about **Node.js, Reactjs , NextJs , ReactNative , JavaScript... or anything [here](https://github.com/yessineZ/yessineZ/issues)**
+- 💬 Ask me about **Node.js, Reactjs , NextJs , ReactNative , JavaScript... , Docker or anything [here](https://github.com/yessineZ/yessineZ/issues)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
